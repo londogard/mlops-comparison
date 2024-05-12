@@ -1,0 +1,10 @@
+  | Name    | Type    | Params
+------------------------------------
+0 | fc1     | Linear  | 401 K 
+1 | dropout | Dropout | 0     
+2 | fc2     | Linear  | 5.1 K 
+------------------------------------
+407 K     Trainable params
+0         Non-trainable params
+407 K     Total params
+1.628     Total estimated model params size (MB)

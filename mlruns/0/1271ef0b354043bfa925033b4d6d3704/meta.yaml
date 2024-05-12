@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/londogard/git/hlondogard/mlops-comparison/mlruns/0/1271ef0b354043bfa925033b4d6d3704/artifacts
+end_time: 1714469069846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1271ef0b354043bfa925033b4d6d3704
+run_name: bustling-shrike-106
+run_uuid: 1271ef0b354043bfa925033b4d6d3704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714469048111
+status: 3
+tags: []
+user_id: londogard

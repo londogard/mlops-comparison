@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/londogard/git/hlondogard/mlops-comparison/mlruns/0/e81a6716debe4a888da468376e10f6ff/artifacts
+end_time: 1714469337721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e81a6716debe4a888da468376e10f6ff
+run_name: sedate-zebra-705
+run_uuid: e81a6716debe4a888da468376e10f6ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714469317007
+status: 3
+tags: []
+user_id: londogard

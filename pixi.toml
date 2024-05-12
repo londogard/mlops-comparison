@@ -1,0 +1,17 @@
+[project]
+name = "mlops-comparison"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["hampus.londogard@gmail.com <hampus.londogard@gmail.com>"]
+channels = ["conda-forge", "pytorch"]
+platforms = ["osx-arm64"]
+
+[tasks]
+zenml_train = "python src/zenml_test/mnist.py"
+clearml_train = "python src/clearml_test/mnist.py"
+
+[dependencies]
+python = "<3.11"
+
+[pypi-dependencies]
+zenml = { version = "0.57.0" }
